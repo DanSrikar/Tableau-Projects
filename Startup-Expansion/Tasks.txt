@@ -1,0 +1,10 @@
+In this task, you'll be working as an data analyst for a laundry based startup.
+
+This startup has a strong presence in 140 locations and opened cities in 10 new cities, the company also has 2 seperate sales regions
+
+Your tasks are
+
+1) Identify which of the 2 sales regions is performing better (based on Revenue,Marketing and ROMI)
+
+2) Identify which of the new locations have the potential to invest more funds into marketing
+
